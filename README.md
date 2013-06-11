@@ -1,7 +1,8 @@
 Mudbox_custom_plugin_CleanLayers
 ================================
 
-To use the CMake to build a simple custom plugin of Mudbox
+To use the CMake to build a simple custom plugin of Mudbox. 
+
 用CMake新建Mudbox插件.
 
 ###How to build this plugin on Windows?

@@ -5,6 +5,10 @@ To use the CMake to build a simple custom plugin of Mudbox.
 
 用CMake新建Mudbox插件.
 
+###What does this plugin do?
+
+Try to remove all the sculpt layers. Yes, this is not undoable and very dangerous. I do this to learn 1. use camke to create a plugin project. 2, access the sculpt layers.
+
 ###How to build this plugin on Windows?
 
 Step 1. Downlaod the source code, put it into a folder, 
